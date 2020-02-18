@@ -1,4 +1,4 @@
-var data = ["scp 0","scp 1","scp 2","scp 3"];
+var data = ["-","gate gaurdian","the living room","Biological Motherboard"];
 
 exports.lookup = function (x) {
 	return data[x];
